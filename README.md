@@ -1,2 +1,2 @@
 # example
-*print('Hell*o, world')
+*print('Hell*__o, world')__
