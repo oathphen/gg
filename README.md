@@ -1,2 +1,2 @@
 # example
-print('Hello, world')
+__print('Hello, world')__
