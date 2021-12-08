@@ -1,1 +1,2 @@
-# gg
+# example
+print('Hello, world')
